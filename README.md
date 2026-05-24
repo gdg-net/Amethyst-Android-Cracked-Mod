@@ -1,4 +1,4 @@
-<h1 align="center">Angel Aura Amethyst</h1>
+<h1 align="center">Angel Aura Amethyst Modded By GDG-Net</h1>
 
 <img src="https://github.com/AngelAuraMC/Amethyst-Android/blob/v3_openjdk/app_pojavlauncher/src/main/assets/amethyst.png" align="left" width="130" height="130" alt="Amethyst logo">
 
@@ -104,9 +104,11 @@ See our [wiki](https://wiki.angelauramc.dev/) for more information.
 
 ## Contributing
 
-Contributions are welcome! We welcome any type of contribution, not only code. For example, you can help improve the [wiki](https://github.com/AngelAuraMC/angelauramc.github.io/), contribute to the [translations](https://crowdin.com/project/pojavlauncher), or submit bug reports and feature requests.
+Contributions are welcome! We welcome any type of contribution, not only code. For example, you can help improve the [wiki](https://github.com/AngelAuraMC/angelauramc.github.io/), contribute to the [translations](https://crowdin.com/project/pojavlauncher), or submit bug reports and feature requests
 
 Any code change should be submitted as a pull request. The description should explain what the code does and give steps to execute it.
+
+You can also help GDG-Net to compile it, I can't because having less then 1 GB of free ram is not good, but I'm trying my best to help the community and not the people who thought copilot was a good idea! To support me simply dm me on discord (lucasisagamer) with the url to the apk and i will add it to gh releases and credit you.
 
 ## Support
 
@@ -139,6 +141,7 @@ Amethyst is licensed under [GNU LGPLv3](https://github.com/AngelAuraMC/Amethyst-
 * [SDL3](https://github.com/libsdl-org/SDL): [zlib License](https://github.com/libsdl-org/SDL/blob/main/LICENSE.txt)
 * [sdl2-compat](https://github.com/libsdl-org/sdl2-compat): [zlib License](https://github.com/libsdl-org/sdl2-compat/blob/main/LICENSE.txt)
 * Thanks to [MCHeads](https://mc-heads.net) for providing Minecraft avatars.
+* And thank GDG-Net for cracking this to annoy Microsoft.
 
 ## Roadmap
 
