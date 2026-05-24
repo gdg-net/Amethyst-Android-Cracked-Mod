@@ -1812,7 +1812,7 @@ public final class Tools {
                 return true;
             }
         }
-        return false;
+        return true; // This makes it so that it always lets you make local acc i think, idk i never used java in my life only javaSCRIPT
     }
 
     public static void hasNoOnlineProfileDialog(Activity activity, @Nullable Runnable run, @Nullable String customTitle, @Nullable String customMessage){
